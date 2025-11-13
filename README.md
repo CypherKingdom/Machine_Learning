@@ -126,7 +126,7 @@ pip install numpy matplotlib scipy jupyter
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/CypherKingdom/Machine_Learning.git
 cd Machine_Learning
 ```
 
